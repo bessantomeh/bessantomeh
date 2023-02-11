@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Bessan
-![](https://arabicprogrammer.com/images/165/ddd8a5bf0ec81e6c5630d8d4727078c5.JPEG)
+![](https://cdn.al-ain.com/images/2018/5/23/127-134613-best-laptops-programmers_700x400.jpeg)
 
 
-Skills:
-* Node.JS
-* REACT 
-* JS 
-* HTML
-* CSS
+Skills: NODE.JS / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bessantomeh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/bessan-tomeh/)  
+
+
 
 
 
