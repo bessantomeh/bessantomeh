@@ -2,7 +2,12 @@
 ![](https://cdn.al-ain.com/images/2018/5/23/127-134613-best-laptops-programmers_700x400.jpeg)
 
 
-Skills: NODE.JS / REACT / JS / HTML / CSS
+Skills:
+* NODE.JS 
+* REACT 
+* JS 
+* HTML 
+* CSS
 
 - 🔭 I’m currently working on this page. 
 
