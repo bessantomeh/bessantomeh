@@ -3,11 +3,11 @@
 
 
 Skills:
-*Node.JS
-*REACT 
-*JS 
-*HTML
-*CSS
+* Node.JS
+* REACT 
+* JS 
+* HTML
+* CSS
 
 - 🔭 I’m currently working on this page. 
 
